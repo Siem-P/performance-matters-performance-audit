@@ -8,14 +8,15 @@ Doe een Performance Audit test op een bestaande website en rapporteer daar over.
 
 Welke website heb je getest? Beschrijf de website die je hebt geanalyseerd en de datum dat je hebt getest. Voeg de url en een screenshot van de website toe.  
 
-De website die ik heb geanalyseerd is [Broadcast Rental B.V.](https://www.broadcastrental.com/) <br>
+De website die ik heb geanalyseerd is [Broadcast Rental B.V.](https://www.broadcastrental.com/). Deze website is gemaakt met Wordpress, de resultaten zullen dan ook verbeteringen weergeven gedaan kunnen worden binnen Wordpress.
 Datum analyse: 20-04-2023
 
 ![www broadcastrental com_](https://user-images.githubusercontent.com/64197688/233570159-7ae01d37-d080-44f3-a490-277091ba82fb.png)
 
-Toon een screenshot van de performance test.
+De resultaten van de performance test.
 
-Schrijf een samenvatting van de testbevindingen en verwijs naar je Wiki voor een uitgebreide rapportage.
+![pagespeed web dev_analysis_https-www-broadcastrental-com_ecg7m7sdxg_form_factor=mobile](https://user-images.githubusercontent.com/64197688/233570683-710ce1d0-b538-4428-b575-4adf4f68233b.png)
+
 
 
 ## Licentie
